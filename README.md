@@ -76,6 +76,7 @@ Solution: [https://github.com/prabinkc2046/PrabinKC-BashScriptChallengesSolved./
 
 *Challenge 7:*
 ```Write a Bash script that create README.md file when the list of command is provided as a input file to it```
+
 	- takes inputfile which is list of commands serially as the first arguement
 	- takes the output file path
 	- runs the commands listed in input file and captures the outcome as well as input as required for README.md file
