@@ -75,9 +75,12 @@ Ensure that the script includes the necessary email configuration to send notifi
 Solution: [https://github.com/prabinkc2046/PrabinKC-BashScriptChallengesSolved./blob/main/alert_disk_usage.sh]
 
 *Challenge 7:*
-```Write a Bash script that create README.md file when the list of command is provided as a input file to it>
+```Write a Bash script that create README.md file when the list of command is provided as a input file to it```
+	- takes inputfile which is list of commands serially as the first arguement
+	- takes the output file path
+	- runs the commands listed in input file and captures the outcome as well as input as required for README.md file
 
-Solution: [https://github.com/prabinkc2046/PrabinKC-BashScriptChallengesSolved.>
+Solution: [https://github.com/prabinkc2046/PrabinKC-BashScriptChallengesSolved./blob/main/create_readmefile.sh]
 
 Feel free to modify the repository name, file structure, and content of the README to suit your preferences and the challenges you've tackled. Replace <your-username> in the repository URL with your actual GitHub username.
 
